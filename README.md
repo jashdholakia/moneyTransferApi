@@ -15,7 +15,7 @@ A Java RESTful API for money transfers between users accounts
 mvn exec:java
 ```
 
-Application starts a jetty server on localhost port 8080 An H2 in memory database initialized with some sample user and account data To view
+Application starts a jetty server on localhost port 9000 An H2 in memory database initialized with some sample user and account data To view
 
 - http://localhost:9000/user/test1
 - http://localhost:9000/user/test2
